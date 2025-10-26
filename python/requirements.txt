@@ -1,0 +1,4 @@
+Django==2.1.0            # older Django with many fixes after this release
+urllib3==1.24.1          # older urllib3 with CVE history
+PyYAML==3.13             # older PyYAML with issues (use safe_load recommended)
+requests==2.19.1         # older requests version
